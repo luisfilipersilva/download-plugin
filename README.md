@@ -9,4 +9,4 @@ plugins to configure file downloads in PHP with Zend Framework
   url = "download.php?download_file="+path_files;
   document.location.href=url;
 
-</script>
+# </script>
